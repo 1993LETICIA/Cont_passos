@@ -1,19 +1,20 @@
-# Contador de passos.
+# 👣 Contador de passos
 
 ... Description
 
+Este programa foi desenvolvido para a disciplina de 'Tecnologia de desenvolvimento para Internet II' , o mesmo apresenta de modo fácil um contador de passos onde o usuário entra com a contagem desejadada e o intevalo desejado entre cada passo.
 
 
-
-## Technology 
- 
-Dev 
+## 🛠 Technology 
+* HTML5
+* CSS3
+* JavaScript
  
 
 ## Services Used
  
 * Github
-* Dev
+* VScode
 
 ## How to use
  
