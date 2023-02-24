@@ -1,4 +1,4 @@
-# 👣 Contador de passos
+# 👣 Contador de passos 👣
 
 ... Description
 
